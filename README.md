@@ -1,4 +1,4 @@
-# Payments App README
+# Express Wallet
 
 ## Description
 
